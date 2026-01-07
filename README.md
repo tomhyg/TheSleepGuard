@@ -4,7 +4,7 @@
 
 A wearable device designed to monitor and improve sleep quality through real-time heart rate analysis and sleep phase detection.
 
-![TheSleepGuard Device](link-to-your-image)
+![TheSleepGuard Device](docs/images/device.jpeg)
 
 ## 🎓 Project Context
 
